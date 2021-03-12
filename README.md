@@ -20,6 +20,13 @@ There was a positive correlation 0.21 for X and Z.
 There was a positive correlation 0.51 for Y and Z. 
 A negative correlation -0.53 for X and Y. 
 
+![plot](volume_treasury.png)
+
+![plot](volume_tesla.png)
+
+![plot](tesla_treasury.png)
+
+
 ## Analysis 
 Much of these findings made intuitive sense as naturally increases in prices of bonds or equities would increase the total volume of trades.
 
