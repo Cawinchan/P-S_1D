@@ -22,9 +22,10 @@ A negative correlation -0.53 for X and Y.
 
 ## Analysis 
 Much of these findings made intuitive sense as naturally increases in prices of bonds or equities would increase the total volume of trades.
+
 Additionally, our hypothesis seems to prove substantial as there seemed to be a strong linear correlation which are seldom in the stock market. 
-Investment products all have a degree of a positive relation due to the believe of inflation whereby prices will raise. 
-As such, strong negative correlations are uncommon.
+
+Investment products all have a degree of a positive relation due to the believe of inflation whereby prices will raise. As such, strong negative correlations are uncommon.
 
 
 
