@@ -20,11 +20,10 @@ There was a positive correlation 0.21 for X and Z.
 There was a positive correlation 0.51 for Y and Z. 
 A negative correlation -0.53 for X and Y. 
 
-![](volume_treasury.png)
+ ![volume_treasury](https://user-images.githubusercontent.com/33630146/110984276-e2a15b00-83a5-11eb-80be-2d406d6f6040.png)
+![volume_tesla](https://user-images.githubusercontent.com/33630146/110984279-e339f180-83a5-11eb-9753-2f2fb3b53575.png)
+![tesla_treasury](https://user-images.githubusercontent.com/33630146/110984288-e503b500-83a5-11eb-80d9-c9d69d8cc81a.png)
 
-![1](volume_tesla.png)
-
-![2](tesla_treasury.png)
 
 
 ## Analysis 
