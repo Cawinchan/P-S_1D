@@ -20,11 +20,11 @@ There was a positive correlation 0.21 for X and Z.
 There was a positive correlation 0.51 for Y and Z. 
 A negative correlation -0.53 for X and Y. 
 
-![plot](volume_treasury.png)
+![](volume_treasury.png)
 
-![plot](volume_tesla.png)
+![1](volume_tesla.png)
 
-![plot](tesla_treasury.png)
+![2](tesla_treasury.png)
 
 
 ## Analysis 
@@ -38,5 +38,7 @@ Investment products all have a degree of a positive relation due to the believe 
 
 # References
 https://sg.finance.yahoo.com/
+
 https://www.investopedia.com/ask/answers/040115/does-negative-correlation-between-two-stocks-mean-anything.asp#:~:text=A%20negative%20correlation%20is%20observed,to%20some%20degree%20in%20another
+
 https://www.investopedia.com/articles/investing/100814/why-10-year-us-treasury-rates-matter.asp#citation-6
